@@ -1,0 +1,12 @@
+Studied:
+Basic Lab Setup.
+Virtualization using VMware, Virtualbox.
+Containers, Docker, Parrot.
+Android Emulator and Simulators.
+Various tools that are needed to perform testing.
+Kali, Wireshark, XAMPP, EVE-NG.
+Useful pentesting physical devices.
+Flipper Zero, Killer USB, OMG - Cable.
+Career Paths for Pentesting/ CEH.
+Jobs Market, Potential and Scheme for future CEH Career.
+Prerequisite certificates as well as courses for networking, cyber security field in general and CEH in particular.
