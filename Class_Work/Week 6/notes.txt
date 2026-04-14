@@ -1,0 +1,34 @@
+Studied Google Odrks.
+Filetype: "pdf".
+Intitle: "Keyword".
+Intext: " Keyword".
+Inurl: " Keyword".
+Intel Gathering through "Robot. txt", Fuzzing Tools.
+Feroxbuster.
+Ffuf.
+Gobuster.
+Dirb.
+Cysecwordlist: Seclist , rockyou. txt.
+Analysis Tool: Netcraft.
+Learned about Linux Intel Gathering Tools.
+Subfinder.
+Sublister.
+Sherlock.
+Wayback machine + Linux api Waybackypy.
+Dns dumpster.
+Nslookup.
+Zenmap.
+Opensource intel (OSNIT) Framework, Passive.
+Intel Gathering from DNS Lookup.
+Kloth.net.
+Kali tool: dig.
+Dig Google.com
+Metasploit.
+Payload Creation: msfvenom.
+Commands:
+Search, Use, msfconfig, exploit.
+AI Tools
+Hexstrike.
+Xboq ai.
+Password Cracking: openssl, John the ripper.
+Microsoft Threat Modelling Tool.
