@@ -1,0 +1,12 @@
+Learned the basics of Bash Scripting Language
+Syntax and Different ways to use for loop.
+Syntax and Usage of While Loop.
+Global and Local Variables.
+Functions Syntax.
+Input and Output using This Read and Echo Commands.
+Operators AND, OR.
+IF Statement.
+Elif Statetment.
+Prepared following topics for presentation 
+SSL vs 
+SSL Certificates.
